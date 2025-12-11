@@ -1,7 +1,7 @@
 # 🚀 DevPilot – AI Developer Assistant
 
 DevPilot is an intelligent developer assistant that helps generate code, review tasks, and accelerate development workflows through a clean UI and AI-powered backend.  
-This project is built for the **WeMakeDevs – AI Assemble Hackathon 2025** and integrates **Vercel**, **Render**, and **CodeRabbit**.
+This project is built for the **WeMakeDevs – AI Assemble Hackathon 2025** and integrates **Vercel**, **Render**.
 
 ---
 
@@ -20,11 +20,6 @@ This project is built for the **WeMakeDevs – AI Assemble Hackathon 2025** and 
   - Uses Vercel AI SDK + Groq models  
   - Securely processes tasks and returns AI-generated output
 
-- 🤖 **CodeRabbit Integration**
-  - Automated PR reviews  
-  - Improves documentation & code quality  
-  - Required for the **Captain Code Award**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -42,8 +37,6 @@ This project is built for the **WeMakeDevs – AI Assemble Hackathon 2025** and 
 
 ### **Tools**
 - GitHub  
-- CodeRabbit (Automated PR reviews)
-
 ---
 
 ## 🧩 Architecture Overview
@@ -143,12 +136,6 @@ Frontend deployed
 
 Backend uses Vercel AI SDK
 
-✔️ CodeRabbit
-
-GitHub App installed
-
-Automated PR reviews enabled
-
 ✔️ Render
 
 Backend deployed with auto-deploy
@@ -182,8 +169,6 @@ Dark/Light theme toggle
 WeMakeDevs
 
 Vercel
-
-CodeRabbit
 
 Groq
 
