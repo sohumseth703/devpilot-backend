@@ -140,9 +140,11 @@ Backend uses Vercel AI SDK
 
 Backend deployed with auto-deploy
 
-🎥 Demo Video (Required)
+## 🎥 Demo Video
 
-A 2-minute demo video will be added before final submission, including:
+Watch the demo video here:  
+https://www.loom.com/share/fe17d7dff4a94fd0b5af1ec49b39e504
+
 
 UI walkthrough
 
